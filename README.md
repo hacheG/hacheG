@@ -7,8 +7,9 @@ Soy Desarrollador de software & artista digital, me encanta la ciencia, el cine 
 
 ## Skils
 
-+ javaScript (React.js)
++ javaScript -> React.js, P5.js
 + HTML
 + CSS
-+ C#
-+ python
++ C# -> Unity
++ python ->  Blender, pyGame
++ Git & GitHub
