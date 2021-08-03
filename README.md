@@ -1,12 +1,12 @@
-# hi i am Hache 3,14
+hi i am #Hache 3,14
 
-Hola soy Programador creativo, me encanta la ciencia, el cine el VFX y todo lo que sea audiovisual (incluidos los videojuegos)
+Hola, soy Desarrollador de software & artista digital, me encanta la ciencia, el cine el VFX y todo lo que sea audiovisual (incluidos los videojuegos)
 
 [Hache](https://hacheg.github.io/myArtPortafolio/)
 
 ## Skils
 
-+ javaScript
++ javaScript (React.js)
 + HTML
 + CSS
 + C#
