@@ -1,6 +1,7 @@
-hi i am #Hache 3,14
+hi i am
+#Hache 3,14
 
-Hola, soy Desarrollador de software & artista digital, me encanta la ciencia, el cine el VFX y todo lo que sea audiovisual (incluidos los videojuegos)
+Soy Desarrollador de software & artista digital, me encanta la ciencia, el cine el VFX y todo lo que sea audiovisual (incluidos los videojuegos)
 
 [Hache](https://hacheg.github.io/myArtPortafolio/)
 
